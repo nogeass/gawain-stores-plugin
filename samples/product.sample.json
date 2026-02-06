@@ -1,0 +1,37 @@
+{
+  "id": "item_abc123456",
+  "name": "Premium Wireless Headphones",
+  "description": "Experience crystal-clear sound with our premium wireless headphones.\n\nFeatures:\n- 40-hour battery life\n- Active noise cancellation\n- Comfortable over-ear design",
+  "price": 29800,
+  "compare_at_price": 35800,
+  "images": [
+    {
+      "url": "https://example.com/images/headphones-front.jpg",
+      "alt": "Premium Wireless Headphones - Front View"
+    },
+    {
+      "url": "https://example.com/images/headphones-side.jpg",
+      "alt": "Premium Wireless Headphones - Side View"
+    },
+    {
+      "url": "https://example.com/images/headphones-case.jpg",
+      "alt": "Premium Wireless Headphones - With Case"
+    }
+  ],
+  "variants": [
+    {
+      "id": "var_001",
+      "name": "Color",
+      "options": ["Black", "White", "Navy Blue"]
+    },
+    {
+      "id": "var_002",
+      "name": "Size",
+      "options": ["Standard", "Large"]
+    }
+  ],
+  "category": "Electronics",
+  "published": true,
+  "stock_quantity": 100,
+  "sku": "HEADPHONES-PREMIUM-001"
+}
