@@ -180,7 +180,7 @@ For production use:
 
 ## License
 
-MIT - see [LICENSE](./LICENSE)
+Licensed under GNU AGPL v3.0. See [LICENSE](./LICENSE).
 
 ## Support
 
